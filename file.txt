@@ -1,1 +1,2 @@
-this is my hidden file 
+this is my hidden file
+Hello welcome  
